@@ -1,2 +1,2 @@
 # SK
-install.sh
+/install.sh
